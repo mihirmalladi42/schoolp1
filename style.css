@@ -1,0 +1,16 @@
+#video{
+    width:50%;
+  height: 340px;
+}
+body{
+  text-align:center;
+}
+
+#schoolInfo:hover{
+  color:#a1a1a1;
+}
+#uInfo:hover {
+  color:#a1a1a1;
+}
+
+ 
